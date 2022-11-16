@@ -14,7 +14,7 @@ Project Description
 
 <h2>Techniques Used </h2>
 
-- <b> stats tech, etc</b> (21H2)
+- <b> stats tech, etc</b>
 
 <h2>Project walk-through:</h2>
 <h3> if useful--add sceren shots or link to project? </h3>
