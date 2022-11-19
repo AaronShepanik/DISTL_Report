@@ -21,7 +21,7 @@ The largest skill check during this project was not the actual data analysis, bu
 - <b> Poisson Distribution and Parameter Esitmation (for ROI) </b>
 
 <h2>Project walk-through or samples:</h2>
-<h3> if useful--add sceren shots or link to project? </h3>
+[Duluth Institute STEM Teaching and Learning Report](https://github.com/AaronShepanik/DISTL_Report)
 
 
 
