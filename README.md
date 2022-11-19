@@ -30,13 +30,19 @@ Now that we can estimate the chance of losing a certain number of students, we c
 
 <p align="center">
 Optimistic Outlook ROI: <br/>
+<figure>
 <img src="https://github.com/AaronShepanik/DISTL_Report/blob/main/Images/ROI_Optimistic.png"/>
+</figure>
 <br />
 <br />
+
+<p align="center">
 Likely ROI:  <br/>
 <img src="https://github.com/AaronShepanik/DISTL_Report/blob/main/Images/ROI_Most_Likely.png"/>
 <br />
 <br />
+
+<p align="center">
 Conservative ROI: <br/>
 <img src="https://github.com/AaronShepanik/DISTL_Report/blob/main/Images/ROI_Conservative.png"/>
 <br />
