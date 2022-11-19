@@ -18,7 +18,7 @@ The largest skill check during this project was not the actual data analysis, bu
 
 - <b>Exploratory Data Analysis and Summary Statistics (Pivot Tables, Cross-Tabs, etc)</b>
 - <b> Data Viz</b>
-- <b> Poisson Distribution and Parameter Esitmation (for ROI) </b>
+- <b> Poisson Distribution and Parameter Estimation (for ROI) </b>
 
 <h2>Project walk-through or samples:</h2>
 
@@ -30,15 +30,15 @@ Now that we can estimate the chance of losing a certain number of students, we c
 
 <p align="center">
 Optimistic Outlook ROI: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AaronShepanik/DISTL_Report/blob/main/Images/ROI_Optimistic.png"/>
 <br />
 <br />
 Likely ROI:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AaronShepanik/DISTL_Report/blob/main/Images/ROI_Most_Likely.png"/>
 <br />
 <br />
 Conservative ROI: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AaronShepanik/DISTL_Report/blob/main/Images/ROI_Conservative.png"/>
 <br />
 <br />
 
